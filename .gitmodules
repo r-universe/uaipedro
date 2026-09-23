@@ -1,5 +1,39 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/uaipedro/uaipedro.r-universe.dev
 	branch = HEAD
+[submodule "trama"]
+	path = trama
+	url = https://github.com/uaipedro/trama
+[submodule "trama.data"]
+	path = trama.data
+	url = https://github.com/uaipedro/trama
+	subdir = collections/trama.data
+[submodule "trama.launcher"]
+	path = trama.launcher
+	url = https://github.com/uaipedro/trama
+	subdir = tools/installer/trama.launcher
+[submodule "trama.ml"]
+	path = trama.ml
+	url = https://github.com/uaipedro/trama
+	subdir = collections/trama.ml
+[submodule "trama.models"]
+	path = trama.models
+	url = https://github.com/uaipedro/trama
+	subdir = collections/trama.models
+[submodule "trama.multi"]
+	path = trama.multi
+	url = https://github.com/uaipedro/trama
+	subdir = collections/trama.multi
+[submodule "trama.sampling"]
+	path = trama.sampling
+	url = https://github.com/uaipedro/trama
+	subdir = collections/trama.sampling
+[submodule "trama.series"]
+	path = trama.series
+	url = https://github.com/uaipedro/trama
+	subdir = collections/trama.series
+[submodule "trama.view"]
+	path = trama.view
+	url = https://github.com/uaipedro/trama
+	subdir = collections/trama.view
