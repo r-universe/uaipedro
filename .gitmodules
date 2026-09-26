@@ -9,6 +9,10 @@
 	path = trama.data
 	url = https://github.com/uaipedro/trama
 	subdir = collections/trama.data
+[submodule "trama.experiments"]
+	path = trama.experiments
+	url = https://github.com/uaipedro/trama
+	subdir = collections/trama.experiments
 [submodule "trama.launcher"]
 	path = trama.launcher
 	url = https://github.com/uaipedro/trama
