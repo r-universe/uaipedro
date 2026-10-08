@@ -37,6 +37,10 @@
 	path = trama.series
 	url = https://github.com/uaipedro/trama
 	subdir = collections/trama.series
+[submodule "trama.spatial"]
+	path = trama.spatial
+	url = https://github.com/uaipedro/trama
+	subdir = collections/trama.spatial
 [submodule "trama.sql"]
 	path = trama.sql
 	url = https://github.com/uaipedro/trama
