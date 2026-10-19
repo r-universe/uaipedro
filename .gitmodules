@@ -16,7 +16,7 @@
 [submodule "trama.github"]
 	path = trama.github
 	url = https://github.com/uaipedro/trama
-	subdir = apoio/trama.github
+	subdir = plugins/trama.github
 [submodule "trama.launcher"]
 	path = trama.launcher
 	url = https://github.com/uaipedro/trama
@@ -33,6 +33,10 @@
 	path = trama.multi
 	url = https://github.com/uaipedro/trama
 	subdir = collections/trama.multi
+[submodule "trama.publicar"]
+	path = trama.publicar
+	url = https://github.com/uaipedro/trama
+	subdir = collections/trama.publicar
 [submodule "trama.sampling"]
 	path = trama.sampling
 	url = https://github.com/uaipedro/trama
