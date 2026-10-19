@@ -9,6 +9,10 @@
 	path = trama.data
 	url = https://github.com/uaipedro/trama
 	subdir = collections/trama.data
+[submodule "trama.documentos"]
+	path = trama.documentos
+	url = https://github.com/uaipedro/trama
+	subdir = plugins/trama.documentos
 [submodule "trama.experiments"]
 	path = trama.experiments
 	url = https://github.com/uaipedro/trama
@@ -33,10 +37,6 @@
 	path = trama.multi
 	url = https://github.com/uaipedro/trama
 	subdir = collections/trama.multi
-[submodule "trama.publicar"]
-	path = trama.publicar
-	url = https://github.com/uaipedro/trama
-	subdir = collections/trama.publicar
 [submodule "trama.sampling"]
 	path = trama.sampling
 	url = https://github.com/uaipedro/trama
